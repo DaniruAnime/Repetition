@@ -6,7 +6,7 @@ using System.Linq;
 using System.Windows.Forms;
 using Newtonsoft.Json;
 
-namespace WinFormsApp {
+namespace Repetition {
   internal static class Program {
     [STAThread]
     private static void Main() {
